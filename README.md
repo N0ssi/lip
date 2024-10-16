@@ -1,34 +1,40 @@
-# LiP Lab
+# LiP lab
 
 LiP students are expected to fork the repository and push solutions to the exercises on their fork.
 
-Invitation to the Discord server: **[https://discord.gg/fttNEU38](https://discord.gg/BJPNZVjaP)**
+Invitation to the Discord server: **[https://discord.gg/JKPWbpXBf4](https://discord.gg/JKPWbpXBf4)**
 
-## Installing OCaml 
-
-To work at these projects you must have a local installation of OCaml. 
-Look [here](install-ocaml) for minimal instructions.
-
-Once you have installed OCaml, work on the following warm-up exercises:
+Refresh your OCaml knowledge with these warm-up exercises:
 
 1. [Adder](basics/adder)
-1. [Recognizer](basics/recognizer)
-1. [Tug of war](basics/tugofwar)
+1. [Regexp recognizer](basics/recognizer)
+1. [Context-free grammars](basics/contextfree/)
+1. [Tug of war](basics/tugofwar) (optional) 
 
-## Arithmetic expressions
+---
+
+## Course outline
+
+### Lexing and parsing
+
+1. [A toy lexer](toylexer)
+1. [A toy parser](toyparser)
+1. [Game of life](life)
+
+### Arithmetic expressions
 
 1. [A minimal language of boolean expressions](expr/boolexpr)
 1. [Boolean expressions with not, and, or](expr/andboolexpr)
 1. [Typed arithmetic expressions with dynamic type checking](expr/arithexpr)
 1. [Typed arithmetic expressions with static type checking](expr/sarithexpr)
-1. [Untyped arithmetic expressions](expr/uarithexpr)
-1. [Arithmetic expressions with let bindings and dynamic type checking](expr/letarithexpr)
 
-## Imperative languages
+### Imperative languages
 
 1. [A simple imperative language](imp/while)
 1. [Declaration blocks](imp/blocks)
 1. [Functions](imp/fun)
+
+---
 
 ## References
 
